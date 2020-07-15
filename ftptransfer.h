@@ -15,6 +15,7 @@
 #include <QDateTime>
 #include <QByteArray>
 #include "define.h"
+#include <QNetworkAccessManager>
 
 class FtpTransfer : public QObject
 {

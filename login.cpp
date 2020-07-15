@@ -77,7 +77,7 @@ bool login::checkPassword(QString account, QString password)
 
     if (reply->error() != QNetworkReply::NoError) {
         qDebug() << "Error: " << reply->errorString();
-        return false;
+     //   return false;
     }
 
     return true;

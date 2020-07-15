@@ -19,8 +19,6 @@ DEFINES += DEBUG
 
 SOURCES += \
     contactform.cpp \
-    ftpthread.cpp \
-    ftptransfer.cpp \
     login.cpp \
     main.cpp \
     mainwindow.cpp \
@@ -29,8 +27,6 @@ SOURCES += \
 HEADERS += \
     contactform.h \
     define.h \
-    ftpthread.h \
-    ftptransfer.h \
     login.h \
     mainwindow.h \
     selectemoji.h
