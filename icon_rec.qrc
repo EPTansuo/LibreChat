@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/icon.svg</file>
+        <file>icons/icon.png</file>
+        <file>icons/emoji.png</file>
+        <file>icons/font_size.png</file>
+        <file>icons/sendfile.png</file>
+        <file>icons/image.png</file>
+    </qresource>
+    <qresource prefix="/emoji">
+        <file>emoji/0.png</file>
+        <file>emoji/1.png</file>
+        <file>emoji/2.png</file>
+        <file>emoji/3.png</file>
+        <file>emoji/4.png</file>
+        <file>emoji/5.png</file>
+        <file>emoji/6.png</file>
+        <file>emoji/7.png</file>
+        <file>emoji/8.png</file>
+        <file>emoji/9.png</file>
+        <file>emoji/10.png</file>
+        <file>emoji/11.png</file>
+        <file>emoji/12.png</file>
+        <file>emoji/13.png</file>
+        <file>emoji/14.png</file>
+        <file>emoji/15.png</file>
+        <file>emoji/16.png</file>
+        <file>emoji/17.png</file>
+        <file>emoji/18.png</file>
+        <file>emoji/19.png</file>
+        <file>emoji/20.png</file>
+        <file>emoji/21.png</file>
+        <file>emoji/22.png</file>
+        <file>emoji/23.png</file>
+        <file>emoji/24.png</file>
+        <file>emoji/25.png</file>
+        <file>emoji/26.png</file>
+        <file>emoji/27.png</file>
+        <file>emoji/28.png</file>
+        <file>emoji/29.png</file>
+        <file>emoji/30.png</file>
+        <file>emoji/31.png</file>
+    </qresource>
+</RCC>
